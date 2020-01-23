@@ -1,3 +1,11 @@
+# Denton Paul's First Website
+
+## List of My Favorite Things about CS193
+### This class..
+- Taught me how to create a GitHub account and website
+- Teaches useful skills for both inside and outside the classroom
+- Is a fun class to be apart of
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
